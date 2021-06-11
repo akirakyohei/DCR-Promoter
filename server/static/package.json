@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+        "@popperjs/core": "^2.9.2",
+        "bootstrap": "^5.0.1",
+        "es6-shim": "^0.35.6",
+        "jquery": "^3.6.0",
+        "plotly.js-dist": "^1.58.4",
+        "shim": "^0.6.0",
+        "xlsx": "^0.17.0",
+        "alert-js": "4.0.0"
+    }
+}
